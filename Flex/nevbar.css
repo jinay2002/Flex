@@ -1,0 +1,35 @@
+.main{
+
+    background-color: aquamarine;
+    
+}
+.con {
+    display: flex;
+    
+    
+    justify-content: flex-end;
+    list-style: none;
+}
+.home{
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    color: #000000;
+text-align: center;
+
+}
+.about{
+cursor: pointer;
+    padding: 0.5rem 1rem;
+}
+.menu{
+    padding: 0.5rem 1rem;
+cursor: pointer;
+}
+.contact{
+    padding: 0.5rem 1rem;
+cursor: pointer;
+}
+.con :hover{
+    color: #000000;
+    background-color: aqua;
+}

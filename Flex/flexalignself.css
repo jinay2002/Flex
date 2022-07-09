@@ -1,0 +1,52 @@
+body{
+    font-family: Verdana ;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black;
+    align-items: flex-end;
+    height: 475px;
+
+
+}
+.item1{
+    background-color: aqua;
+    padding: 0.75rem;
+    align-self: flex-start;
+
+    
+}
+.item2{
+    background-color: aquamarine;
+    padding: 0.75rem;
+    align-self: flex-end;
+}
+.item3{
+    background-color: chocolate;
+    padding: 0.75rem;
+    align-self: center;
+}
+.item4{
+    background-color: darkgreen;
+    padding: 0.75rem;
+    align-self: stretch;
+}
+.item5{
+    background-color: fuchsia;
+    padding: 0.75rem;
+}
+.item6{
+    background-color: hotpink;
+    padding: 1rem;
+    text-align: center;
+}
+.item7{
+    background-color: grey;
+    padding: 2rem;
+    align-self: center;
+    }
+.item8{
+    background-color: navy;
+    padding: 0.75rem;
+}

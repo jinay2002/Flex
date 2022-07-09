@@ -1,0 +1,18 @@
+.main{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+
+
+}
+.item{
+    background-color: aquamarine;
+    align-self: center;
+    padding: 50px;
+    
+
+
+}

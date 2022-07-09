@@ -1,0 +1,59 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif}
+.main{
+display: flex;
+border: 5px solid darkgoldenrod;
+justify-content: space-evenly;
+
+
+}
+.item1{
+    background-color: aqua;
+    font-size: 1rem;
+padding: 0.75rem;
+text-align: center;
+}
+.item2{
+    background-color: aquamarine;
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item3{
+    background-color: chocolate;
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item4{
+    background-color: darkgreen;
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item5{
+    background-color: fuchsia;
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item6{
+    background-color: hotpink;
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item7{
+    background-color: grey;
+
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}
+.item8{
+    background-color: navy;
+
+    font-size: 1rem;
+    padding: 0.75rem;
+    text-align: center;
+}

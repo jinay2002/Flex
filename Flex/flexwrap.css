@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif}
+.main{
+display:flex;
+border:10px solid darkgoldenrod;
+flex-direction: column-reverse;
+height: 300px;
+flex-wrap: wrap;
+
+}
+.item1{
+    background-color: aqua;
+
+}
+.item2{
+    background-color: aquamarine;
+
+}
+.item3{
+    background-color: chocolate;
+}
+.item4{
+    background-color: darkgreen;
+}
+.item5{
+    background-color: fuchsia;
+}
+.item6{
+    background-color: hotpink;
+}
+.item7{
+    background-color: grey;
+}
+.item8{
+    background-color: navy;
+}
